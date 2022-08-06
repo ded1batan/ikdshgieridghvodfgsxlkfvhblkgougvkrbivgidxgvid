@@ -3,9 +3,9 @@ var isRightsEnabled = false; // Права
 var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
-var birthdate = "04.06.2003"; // Дата рождения
-var fullname = "Трачук Вікторія Максимівна" // ФИО
-var name = "Имя" // Имя
+var birthdate = "01.03.2003"; // Дата рождения
+var fullname = "Трачук Владислав Максимович" // ФИО
+var name = "Владислав" // Имя
 
 // Паспорт
 var passport_id = "239454975" // Номер паспорта
